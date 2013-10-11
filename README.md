@@ -11,3 +11,7 @@ e.g. 在~/.bashrc添加下面几行
 
 - 下载Tomcat
 /home/mert/J2EE/apache-tomcat-7.0.30/lib/
+
+
+
+test
